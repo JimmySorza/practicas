@@ -8,12 +8,12 @@
     body {
     font-size: 16px;
     font-family: 'Raleway', sans-serif;
-    background: #1B1D35;
+    background: #420000;
     color:#fff;
     }
     a {
     text-decoration: none;
-    color:#B8711B;
+    color:#1bb835;
     }
     a:hover {
     text-decoration: underline;
@@ -25,19 +25,19 @@
     }
     .titulo {
     font-weight: 300;
-    color: #B8711B;
+    color: #ffffff;
     text-align: center;
     margin: 60px 0 30px 0;
     }
     .border {
     border:none;
     margin-bottom: 5px;
-    border-top:10px solid #B8711B;
+    border-top:10px solid #1b0092;
     background: none;
     color:none;
     }
     .formulario {
-        background: #2C2C47;
+        background: #801717;
         padding: 30px;
         margin-bottom: 30px;
         }
@@ -61,9 +61,9 @@
         max-height: 48px;
         font-size: 18px;
         line-height: 18px;
-        background: #c8c8c8;
+        background: #39006e;
         display: inline-block;
-        color:#6b6b6b;
+        color:#98fdb6;
         vertical-align: top;
         }
         .formulario .icono.izquierda {
@@ -99,10 +99,10 @@ width: 48px;
 max-height: 48px;
 font-size: 18px;
 line-height: 18px;
-background: #679863;
+background: #0063f8;
 display: inline-block;
 color:#fff;
-background: #769766;
+background: #b9fc00;
 cursor: pointer;
 -webkit-border-radius: 0 3px 3px 0;
 -moz-border-radius: 0 3px 3px 0;
